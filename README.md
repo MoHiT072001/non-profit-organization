@@ -4,7 +4,7 @@
 To Run the Project
 1.Open your Xampp Control panel and start the Apache and MySql
 2.unzip the files in htdocs folder
-3.In the browser type:/localhost/PeopleFoundation-main/peoplefoundation
+3.In the browser type:localhost/PeopleFoundation-main/peoplefoundation
 
 # Features
 1) ***Live event donation***: Users can donate money and support in live event
